@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Fuzzy Beasiswa - Kasus 2", layout="wide", page_icon="🎓")
 
 # Judul Utama Aplikasi
-st.title("🎓 Aplikasi Sistem Cerdas Logika Fuzzy - Kelayakan Beasiswa")
+st.title(" Aplikasi Sistem Cerdas Logika Fuzzy - Kelayakan Beasiswa")
 st.markdown("### **Studi Kasus 2: Penentuan Kelayakan Berdasarkan IPK (Domain: 0.00 - 4.00)**")
 st.write("Aplikasi ini dibuat untuk memenuhi Tugas Praktikum Logika Fuzzy dengan luaran parameter penilaian yang komprehensif.")
 
